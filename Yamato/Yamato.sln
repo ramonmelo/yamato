@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yamato.App", "Yamato\Yamato.App.csproj", "{6F267E8E-0D74-4326-BE5F-960CE260E3DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yamato.Common", "Yamato.Common\Yamato.Common.csproj", "{02273D16-BB08-478A-AF9E-6D0DC81B3332}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F267E8E-0D74-4326-BE5F-960CE260E3DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F267E8E-0D74-4326-BE5F-960CE260E3DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F267E8E-0D74-4326-BE5F-960CE260E3DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F267E8E-0D74-4326-BE5F-960CE260E3DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02273D16-BB08-478A-AF9E-6D0DC81B3332}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02273D16-BB08-478A-AF9E-6D0DC81B3332}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02273D16-BB08-478A-AF9E-6D0DC81B3332}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02273D16-BB08-478A-AF9E-6D0DC81B3332}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD9709EE-63A2-47D8-A673-E10D0EDDB5FC}
+	EndGlobalSection
+EndGlobal
