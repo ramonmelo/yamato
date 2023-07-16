@@ -2,6 +2,7 @@
 
 ## Sockets
 
+- https://enclave.io/high-performance-udp-sockets-net5/
 - https://enclave.io/high-performance-udp-sockets-net6/
 - https://github.com/enclave-networks/research.udp-perf/blob/main/Enclave.UdpPerf.Test/Program.cs
 
